@@ -1,0 +1,5 @@
+TabList:
+  Used: true
+  Hub:
+    Header: '&bLumixCloud{newline}&fСервер: &c{server}'
+    Footer: '{newline}&fГруппа ВК: &cvk.com/lumixcloud{newline}&fКупить донат: &clumixcloud.net/'
